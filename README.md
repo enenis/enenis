@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @enenis
+HELLO, I AM ENİS KAYRA YAVUZ 👨‍💻;
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning JavaScript and Python
+- 👀 the languages i learn CSS,C#,REACT-Native
 
 <!---
 enenis/enenis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
