@@ -4,6 +4,8 @@ HELLO, I AM ENİS KAYRA YAVUZ 👨‍💻;
 - 👀 the languages i learn CSS,C#,REACT-Native
 
 <b>I AM WORKİNG ON IT;</b>
+<hr>
+<br>
 <b>CSS</b>, <b>HTML</b>, <b>JAVASCRİPT</b>, <b>PYTHON</b>, <b>C#</b>
 <!---
 enenis/enenis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
