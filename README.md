@@ -3,7 +3,7 @@ HELLO, I AM ENİS KAYRA YAVUZ 👨‍💻;
 - 🌱 I’m currently learning JavaScript and Python
 - 👀 the languages i learn CSS,C#,REACT-Native
 
-<b>📐I AM WORKİNG ON IT;🛠️</b>
+<b>I AM WORKİNG ON IT 🛠️;</b>
 <hr>
 <br>
 <b>📙|CSS</b>, <b>📕|HTML</b>, <b>📒|JAVASCRİPT</b>, <b>📘|PYTHON</b>, <b>⚙️|C#</b> <b>💾|MYSQL</b>
