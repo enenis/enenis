@@ -7,7 +7,7 @@ HELLO, I AM ENİS KAYRA YAVUZ 👨‍💻;
 <b>I AM WORKİNG ON IT 🛠️;</b>
 <hr>
 <b>📙|CSS</b>, <b>📕|HTML</b>, <b>📒|JAVASCRİPT</b>, <b>📘|PYTHON</b>, <b>⚙️|C#</b>,  <b>💾|MYSQL</b>
-<br>
+<hr>
 You can visit my personal website: (https://kayrayavuz.com/)
 <!---
 enenis/enenis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
