@@ -7,7 +7,6 @@ HELLO, I AM ENİS KAYRA YAVUZ 👨‍💻;
 <b>I AM WORKİNG ON IT 🛠️;</b>
 <hr>
 <b>📙|CSS</b>, <b>📕|HTML</b>, <b>📒|JAVASCRİPT</b>, <b>📘|PYTHON</b> , <b>⚙️|C#</b>,  <b>💾|MYSQL</b>   
-![Screenshot_6](https://user-images.githubusercontent.com/99321522/204550369-a21e077b-73c9-486a-93c7-dfdb650a9f78.png)
 
 <hr>
 
