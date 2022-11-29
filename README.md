@@ -6,7 +6,8 @@ HELLO, I AM ENİS KAYRA YAVUZ 👨‍💻;
 
 <b>I AM WORKİNG ON IT 🛠️;</b>
 <hr>
-<b>📙|CSS</b>, <b>📕|HTML</b>, <b>📒|JAVASCRİPT</b>, <b>📘|PYTHON ![Screenshot_3]
+<b>📙|CSS</b>, <b>📕|HTML</b>, <b>📒|JAVASCRİPT</b>, <b>📘|PYTHO![Screenshot_3](https://user-images.githubusercontent.com/99321522/204549525-4020381e-fd0a-4197-87ac-447b531e459e.png)
+N ![Screenshot_3]
 </b>, <b>⚙️|C#</b>,  <b>💾|MYSQL</b>
 <hr>
 You can visit my personal website: (https://kayrayavuz.com/)
@@ -18,4 +19,3 @@ You can click the Preview link to take a look at your changes.
 
 Founder OF enenis Software
 
-<div >![Screenshot_3](https://user-images.githubusercontent.com/99321522/204549253-bd969f94-36c6-4069-aa93-167fb187714a.png height="10")</div>
