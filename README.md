@@ -2,7 +2,7 @@ HELLO, I AM ENİS KAYRA YAVUZ 👨‍💻;
 - 👀 I’m interested in Software Development
 - ✨ I was born in Switzerland I currently live in Turkey.
 - 🌱 I’m currently learning JavaScript and Python-django
-- ✨ I'm 16 Years Old.
+- ✨ I'm 17 Years Old.
 
 <b>I AM WORKİNG ON IT 🛠️;</b>
 <hr>
