@@ -5,7 +5,7 @@ HELLO, I AM ENİS KAYRA YAVUZ 👨‍💻;
 - ✨ I'm 17 Years Old.
 
 <b>I AM WORKİNG ON IT 🛠️;</b>
-<hr>
+
 <b>📙|CSS</b>, <b>📕|HTML</b>, <b>📒|JAVASCRİPT</b>, <b>📘|PYTHON</b> , <b>⚙️|C#</b>,  <b>💾|MYSQL</b>   
 
 <hr>
