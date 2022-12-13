@@ -1,4 +1,4 @@
-HELLO, I AM ENİS KAYRA YAVUZ 👨‍💻;
+HELLO, I AM ENIS KAYRA YAVUZ 👨‍💻;
 - 👀 I’m interested in Software Development
 - ✨ I was born in Switzerland I currently live in Turkey.
 - 🌱 I’m currently learning JavaScript and Python-django
