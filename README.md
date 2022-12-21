@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <hr>
 
-Founder OF <b>enenis</b> Software.
+Founder OF <b>ENENIS</b> Software.
 
 <hr>
 <b>Domains I own;</b>
