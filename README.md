@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 Founder OF <b>ENENIS</b> Software.
 
 <hr>
-<b>Domains I own;</b>
+<b>Domains I Own;</b>
 
 I: kayrayavuz.com 
 II: enenis.com
