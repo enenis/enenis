@@ -6,7 +6,7 @@ HELLO, I AM ENIS KAYRA YAVUZ 👨‍💻;
 
 <b>I AM WORKİNG ON IT 🛠️;</b>
 
-<b>📙|CSS</b>, <b>📕|HTML</b>, <b>📒|JAVASCRİPT</b>, <b>📘|PYTHON</b> , <b>⚙️|C#</b>,   <b>💾|MYSQL</b>   <b>⚛️|React</b>
+<b>📙|CSS</b>, <b>📕|HTML</b>, <b>📒|JAVASCRİPT</b>, <b>📘|PYTHON</b> , <b>⚙️|C#</b>,   <b>💾|MYSQL</b>   <b>⚛️|REACT</b>
 
 <hr>
 
