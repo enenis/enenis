@@ -15,10 +15,10 @@ You can visit my personal website: (https://kayrayavuz.com/)
 enenis/enenis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!-- -->
+ 
 <hr>
 
-Founder OF <b>Enenis</b> Software.
+<!--Founder OF <b>Enenis</b> Software.-->
 
 <hr>
 <b>Domains I Own;</b>
