@@ -1,8 +1,8 @@
 HELLO, I AM ENIS YAVUZ 👨‍💻;
 - 👀 I’m interested in Software Development.
-- ✨ I was born in Switzerland I currently live in Turkey.
+- ✨ I was born in Switzerland, I currently live in Turkey.
 - 🌱 I'm 17 Years Old.
-- ✨ I’m currently learning JavaScript, Python-Django and React.
+- ✨ I’m currently learning React-Native and JavaScript.
 
 
 <b>I AM WORKİNG ON IT 🛠️;</b>
