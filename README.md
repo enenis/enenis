@@ -7,7 +7,7 @@ HELLO, I AM ENIS YAVUZ 👨‍💻;
 
 <b>I AM WORKİNG ON IT 🛠️;</b>
 
-<b>⚛️|REACT-NATIVE</b>, <b>📒|JAVASCRİPT</b>, <b>📘|PYTHON</b> , <b>⚙️|C#</b>,  <b>💾|MYSQL</b>,  <b>📙|CSS</b>, <b>📕|HTML</b>
+<b>⚛️|REACT-NATIVE</b>, <b>📒|JAVASCRİPT</b>, <b>📘|PYTHON</b> , <b>📙|CSS</b>, <b>📕|HTML</b>
 
 <hr>
 
