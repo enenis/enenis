@@ -5,7 +5,7 @@ HELLO, I AM ENIS YAVUZ 👨‍💻;
 - ✨ I’m currently learning React-Native and JavaScript.
 
 
-<b>I AM WORKİNG ON IT 🛠️;</b>
+<b>I'M WORKING ON IT 🛠️;</b>
 
 <b>⚛️|REACT-NATIVE</b>, <b>📒|JAVASCRİPT</b>, <b>📘|PYTHON</b> , <b>📙|CSS-HTML</b>, <b>📕|C#</b>
 
