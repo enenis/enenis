@@ -10,8 +10,9 @@ HELLO, I AM ENIS YAVUZ 👨‍💻;
 <b>⚛️|REACT-NATIVE</b>, <b>📒|JAVASCRİPT</b>, <b>📘|PYTHON</b> , <b>📙|CSS-HTML</b>, <b>📕|C#</b>
 
 <hr>
-
-You can visit my personal website: (https://kayrayavuz.com/)
+<!---
+You can visit my personal website: (https://kayrayavuz.com)
+--->
 <!---
 enenis/enenis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
