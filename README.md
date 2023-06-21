@@ -24,7 +24,8 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 <b>Domains I Own;</b>
-
+<!---
 I: kayrayavuz.com <br>
 II: enenis.com <br>
 III: enenissoftware.com <br>
+---!>
