@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Founder OF <b>Enenis</b> Software. -->
 
 
-<b>Domains I Own;</b>
+<!-- <b>Domains I Own;</b>-->
 <!---
 I: kayrayavuz.com <br>
 II: enenis.com <br>
