@@ -1,6 +1,6 @@
-HELLO, I AM ENIS YAVUZ 👨‍💻;
+HELLO, I AM KAYRA YAVUZ 👨‍💻;
 - 👀 I’m interested in Software Development.
-- 🌱 I'm 17 Years Old.
+- 🌱 I'm 19 Years Old.
 - ✨ I was born in Switzerland, i currently live in Turkey.
 - ✨ I’m currently learning React-Native and JavaScript.
 
